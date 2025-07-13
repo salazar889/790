@@ -6876,8 +6876,7 @@ end)
 addcmd("jobid", {}, function(args, speaker)
 	toClipboard("roblox://placeId=" .. PlaceId .. "&gameInstanceId=" .. JobId)
 end)
-end) 
-		
+
 addcmd("jobid", {}, function(args, speaker)
     toClipboard("roblox://placeId=" .. PlaceId .. "&gameInstanceId=" .. JobId)
 end)
